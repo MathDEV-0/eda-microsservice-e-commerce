@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eda_microsservices/inventory-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eda_microsservices/inventory-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eda_microsservices/orchestrator-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eda_microsservices/orchestrator-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eda_microsservices/order-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eda_microsservices/order-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eda_microsservices/payment-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eda_microsservices/payment-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eda_microsservices/product-validation-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eda_microsservices/product-validation-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
